@@ -1,0 +1,302 @@
+.main-container { 
+    height: 100vh;
+}
+
+body{
+  font-family: Barlow ;
+}
+
+.logo
+{
+    width: 15%;
+    height: auto; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.logoimage
+{
+margin-top: 25px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  .form-control {
+
+    width: 100%;
+    height: 50px;
+    padding: 12px;
+    border: 2px solid lightgrey;
+    border-radius: 25px;
+    resize: vertical;
+
+  }
+  
+  input[type=text], select, textarea {
+    width: 100%;
+    height: 50px;
+    padding: 12px;
+    border: 2px solid lightgrey;
+    border-radius: 25px;
+    resize: vertical;
+  }
+
+  input[type=email], select, textarea {
+    width: 100%;
+    height: 50px;
+    padding: 12px;
+    border: 2px solid lightgrey;
+    border-radius: 25px;
+    resize: vertical;
+  }
+
+  input[type=password], select, textarea {
+    width: 100%;
+    height: 50px;
+    padding: 12px;
+    border: 2px solid lightgrey;
+    border-radius: 25px;
+    resize: vertical;
+  }
+  
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  input[type=submit] {
+    background-color: #5C6995;
+    color: white;
+    padding: 12px 20px;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  input[type=submit]:hover {
+    background-color: green;
+  }
+  
+  .composeContainer {
+    border-radius: 5px;
+    
+    padding: 20px;
+    width: 50%;
+    height: 60%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  @media screen and (max-width: 600px)
+  {
+      .container
+      { 
+        width: 50%;
+        height: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+        .logo
+        {
+          width: 50%;
+        }
+        .logoimage
+        {
+          margin-left: auto;
+          margin-right: auto;
+          width: 20%;
+          height: 20%;
+        }
+        .header
+        {
+          margin-top: 0;
+        }
+  }
+  .col-25 {
+    float: left;
+    width: 40%;
+    margin-top: 6px;
+  }
+
+  .col-50 {
+    margin: auto;
+    width: 40%;
+    margin-top: 6px;
+  }
+  
+  .col-75 {
+    float: right;
+    width: 60%;
+    margin-top: 6px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+      width: 75%;
+      margin-top: 10;
+    }
+  }
+
+  .avatar{
+    float: right;
+    position: relative;
+    width: 45px;
+    height: auto;
+    border-radius: 50%;
+  }
+.checkSignIn{
+
+  float: right;
+  position: relative;
+  margin-left: 2px;
+}
+
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  float: left;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+#menuButton
+{
+ float: left;
+  font-size:30px;
+  cursor:pointer
+}
+.navBar
+{
+  width: 100%;
+  height: 100%;
+ 
+}
+.title
+{
+  text-align: center;
+}
+
+
+button {
+  background-color: rgb(243, 239, 239); /* Green */
+  border: solid;
+  border-width: 1px;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 12px 2px;
+  cursor: pointer;
+  width: 40%;
+}
+
+.grid-container {
+        display: grid;
+        background-color: white;
+        width: fit-content;
+        padding-top: 30px; 
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+        grid-template-columns: 1.2fr 1fr 1fr 1.2fr;
+        grid-template-rows: 0.5fr 1fr 0.5fr;
+        grid-template-areas: "top-left-area header-area header-area top-right-area" "left-timeline view-document view-document right-timeline" "left-footer main-footer main-footer right-footer";
+    }
+
+    .top-left-area { grid-area: top-left-area; }
+
+    .header-area { grid-area: header-area; }
+
+    .top-right-area { grid-area: top-right-area; }
+
+    .left-timeline { grid-area: left-timeline; }
+
+    .view-document { 
+        grid-area: view-document;
+        margin-top: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+  .inbox-area { 
+      grid-area: inbox-area;
+      margin-top: 30px;
+  }
+  .btn {
+    background-color: rgb(49, 49, 184);
+    color: white;
+    text-align: center;
+    border: none;
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 10px 25px;
+  }
+  .btn:hover {
+    opacity: 1;
+    background-color: rgb(49, 49, 184);
+    color: white;
+    border-radius:5px;
+  }
+  table {
+    border: 0.2px solid darkgray;
+      width: 500px;
+      height: fit-content;
+  }
+  tr, td {
+      border: 0.2px solid darkgray;
+  }        
+  td {
+      padding: 7px;
+      font-size: 13px;
+  }
+  [data-href] :hover {
+      background-color: azure;
+  }

@@ -1,0 +1,2 @@
+The user's document and body of text will be presented here.
+Obviosuly this will be connect and linked to the user's inbox documents and sent documents
