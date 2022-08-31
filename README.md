@@ -7,4 +7,4 @@ IMPORTANT: The projects that have been archived are structured so that each indi
 
 Hope you enjoy viewing. If you have any questions, Please dont hesitate to get in contact.
 
-Samuel William Mason - sammason21magmail.com
+Samuel William Mason - sammason21ma@gmail.com
