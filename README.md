@@ -1,10 +1,10 @@
 # Personal-and-Academic-Project-Portfolio
 
 # Repositary Overview
-Hello, welcome to the portfolio of all my personal and academic projects that I've completed and I'm currently undertaking.
+Hi, welcome to my software engineering portfolio, including a sample of my personal and academic projects that I've completed and still currently undertaking.
 
-The projects have been archived that so each covers a specifc topic area and can be viewed to see software development in that particular area.
+IMPORTANT: The projects have been archived so that each indivdiual project, covers a specifc topic area and can be viewed to see an example of software development in that particular area. Imporatntly, all of the projects that are included, were completed and developed over the course of my academic and working career. Each project show a level of aptitude with regard to full-stack development, testing and other important areas in software development.
 
-All of the projects included, were completed over the course of my academic and working career. So are still be worked upon.
+Hope you enjoy viewing. If you have any questions, Please dont hesitate to get in contact.
 
-Hope you enjoy viewing.
+Samuel William Mason
