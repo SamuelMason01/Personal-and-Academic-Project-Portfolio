@@ -1,0 +1,30 @@
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\bin\Debug\Election.exe.config
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\bin\Debug\Election.exe
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\bin\Debug\Election.pdb
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\obj\Debug\Election.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\obj\Debug\Election.FormsBasedUI.resources
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\obj\Debug\Election.Properties.Resources.resources
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\obj\Debug\Election.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\obj\Debug\Election.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\obj\Debug\Election.exe
+C:\Users\Dell\Desktop\CET212-Election-Example (1)\Election - Solution\Election\obj\Debug\Election.pdb
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\bin\Debug\Election.exe.config
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\bin\Debug\Election.exe
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\bin\Debug\Election.pdb
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\obj\Debug\Election.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\obj\Debug\Election.FormsBasedUI.resources
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\obj\Debug\Election.Properties.Resources.resources
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\obj\Debug\Election.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\obj\Debug\Election.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\obj\Debug\Election.exe
+C:\Users\Dell\Desktop\CET212-exam\Election - Solution\Election\obj\Debug\Election.pdb
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\bin\Debug\Election.exe.config
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\bin\Debug\Election.exe
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\bin\Debug\Election.pdb
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\obj\Debug\Election.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\obj\Debug\Election.FormsBasedUI.resources
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\obj\Debug\Election.Properties.Resources.resources
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\obj\Debug\Election.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\obj\Debug\Election.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\obj\Debug\Election.exe
+C:\Users\Dell\Desktop\CET212-exam\Exam - Solution\Election\obj\Debug\Election.pdb

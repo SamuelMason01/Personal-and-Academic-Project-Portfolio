@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Particulates>
+  <Location name="gateshead">
+    <Reading date="28/02/2020">
+      <value>13</value>
+      <temperature>5.0</temperature>
+      <humidity>51.5</humidity>
+    </Reading>
+    <Reading date="31/02/2020">
+      <value>9</value>
+      <temperature>11.4</temperature>
+      <humidity>60.0</humidity>
+    </Reading>
+  </Location>
+</Particulates>
